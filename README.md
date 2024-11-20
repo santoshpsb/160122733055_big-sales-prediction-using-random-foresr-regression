@@ -14,14 +14,8 @@ This project focuses on predicting sales for large datasets using a Random Fores
 - **Deployment**: Preparing the model for real-world deployment.
 
 ## Author
-Adithya Gella, currently an undergraduate student pursuing a degree in Computer Science and Engineering at Chaitanya Bharathi Institute of Technology (CBIT) passing out in 2026. I have a keen interest in machine learning, data science,web developement  and predictive modeling.
+Pinnenti Santoh, currently an undergraduate student pursuing a degree in Computer Science and Engineering at Chaitanya Bharathi Institute of Technology (CBIT) passing out in 2026. I have a keen interest in machine learning, data science,web developement  and predictive modeling.
 
-##  Contact
-Feel free to contact me for any questions or collaboration opportunities:
-
-- **Email**: adithya.gella@example.com
-- **LinkedIn**: https://www.linkedin.com/in/adithya-gella/
-- **GitHub**: https://github.com/adithya45
 
 ## Installation
 
